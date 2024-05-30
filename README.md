@@ -1,2 +1,2 @@
 # golang-projects
- Projects for learning Go
+ Projects for learning Go (work in progress)
